@@ -20,3 +20,16 @@ def dryRun():
 
 
 print(dryRun())
+print("hello")
+
+"jenkins code "
+##!/bin/bash
+
+# Print the workspace and current directory
+"""echo "Workspace directory: $WORKSPACE"
+echo "Current directory: $(pwd)"
+echo "Listing files in workspace:"
+ls -l $WORKSPACE
+
+# Execute the Python script directly if it's in the workspace
+python quickSort.py"""
