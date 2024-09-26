@@ -1,1 +1,1 @@
-print("hello")
+print("Welcome All SQA for First devOps Session")
